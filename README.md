@@ -187,10 +187,11 @@ Estrutura:
 sql/
 ├── 01_tabelas.sql
 ├── 02_inserts.sql
-├── 03_views.sql
-├── 04_functions.sql
-├── 05_procedures.sql
-└── 06_triggers.sql
+├── 03_querys.sql
+├── 04_views.sql
+├── 05_functions.sql
+├── 06_procedures.sql
+└── 07_triggers.sql
 ```
 
 ---
