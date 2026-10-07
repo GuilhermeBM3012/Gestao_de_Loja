@@ -13,7 +13,7 @@ public class ConexaoBD {
             Class.forName("oracle.jdbc.driver.OracleDriver");
 
             conn = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/XEPDB1",
-                    "system", "guioracle178239");
+                    "system", "...");
 
             if (conn != null)
                 System.out.println("Conexão estabelecida com sucesso!");
